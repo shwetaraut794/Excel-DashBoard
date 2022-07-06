@@ -1,5 +1,6 @@
 # Excel-DashBoard
-Telecom Customer Dataset
+Telecom Customer Dataset 
+Performed advanced excel functions to cleanse data and visualize it with the help of pivot tables, charts & graphs to see patterns and trends in data.
 
 
-Did initial data cleansing in order to start with data analysis. Performed data analysis with the help of pivot tables, pivot charts and graphs.
+Pivot tables are powerfool tools to summerize and analyze data to observe patterns and trends in it. 
